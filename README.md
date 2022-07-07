@@ -1,8 +1,24 @@
 # SpinePs4Linux
-🇧🇷Spine é uma camada de compatibilidade desenvolvida para Linux que permite que os jogos do PlayStation 4 funcionem. O projeto é amplamente desenvolvido em privado por um único desenvolvedor, o Spinedev. A primeira demonstração pública da Spine foi a primeira a lançar jogos comerciais. Desde então, mais compilações foram lançadas, o que suporta muitos outros títulos comerciais.🇧🇷
+🇧🇷OLÁ PARA TODOS, MEU NOME É LEANDRO CRIADOR DO CANAL DESFRUTANDO O.S NO YOUTUBE🇧🇷
 
-🇺🇸Spine is a compatibility layer developed for Linux that allows PlayStation 4 games to work. The project is largely developed in private by a single developer, spinedev. Spine's first public demo was the first to launch commercial games. More builds have since been released which supports many more commercial titles.🇺🇸
+🇧🇷EU SOU O CRIADOR DO SERVIDOR NO DISCORD LEANDRODASLIVES🇧🇷
 
-🇪🇸Spine es una capa de compatibilidad desarrollada para Linux que permite que funcionen los juegos de PlayStation 4. El proyecto es desarrollado en gran parte en privado por un solo desarrollador, spinedev. La primera demostración pública de Spine fue la primera en lanzar juegos comerciales. Desde entonces, se han lanzado más compilaciones que admiten muchos más títulos comerciales.🇪🇸
+🇧🇷EU SOU O CRIADOR DA VERSÃO EM APPIMAGE E INTERFACE DO SPINE PS4 LINUX🇧🇷 
 
-🇫🇷Spine est une couche de compatibilité développée pour Linux qui permet aux jeux PlayStation 4 de fonctionner. Le projet est en grande partie développé en privé par un seul développeur, spinedev. La première démo publique de Spine a été la première à lancer des jeux commerciaux. Plus de versions ont été publiées depuis, ce qui prend en charge de nombreux autres titres commerciaux.🇫🇷
+🇧🇷EU SOU O CRIADOR DAS IMPLEMENTAÇÕES : MODO THE FLASH, MODO FPS CONTROL E MODO EMBRASEK🇧🇷
+
+🇧🇷EU SOU O CRIADOR DO MODO ORION ILLUSION MÁCRON🇧🇷
+
+🇧🇷INSCREVA-SE NO CANAL DESFRUTANDO O.S PELO LINK ABAIXO🇧🇷 
+
+👉https://www.youtube.com/channel/UCQuyCobw_Hhusn0j0iZ4akg👈
+
+🎯DISCORD LEANDRODASLIVES : https://discord.gg/2q8nK8NsUF🎯
+
+👑TODOS OS CRÉDITOS DA BUILD SPINE PARA : SPINEDEV OU DEVOFSPINE👑
+
+🏆GITHUB DEVOFSPINE : https://github.com/devofspine🏆
+
+😋OLHA O LEITE, OLHA O CARRINHO DO LEITE BY GATO FELIX DAS GALÁXIAS😋
+
+🎩BASE : ORION ILLUSION MÁCRON BY LEANDRO - DESFRUTANDO O.S🎩
