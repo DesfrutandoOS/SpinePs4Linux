@@ -15,6 +15,12 @@
 
 🎯DISCORD LEANDRODASLIVES : https://discord.gg/2q8nK8NsUF🎯
 
+⭐️PARA QUEM QUISER DOAR QUALQUER VALOR PELO PIX⭐️
+
+👉CHAVE PIX : ab4ec5c6-808f-4cbb-883a-13585e0f9740👈
+
+🤜QR CODE PIX : https://drive.google.com/file/d/19J1GJ_PDarJP67Gt7qqsvn3AmoRZ4M86/view🤛
+
 👑TODOS OS CRÉDITOS DA BUILD SPINE PARA : SPINEDEV OU DEVOFSPINE👑
 
 🏆GITHUB DEVOFSPINE : https://github.com/devofspine🏆
